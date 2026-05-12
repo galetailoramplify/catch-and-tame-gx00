@@ -1,4 +1,4 @@
-#  
+#  smart Script for catch and tame offers the most advanced catch and tame Script, with teleport and anti-ban. Perfect for dominating any match.
 
 
 
